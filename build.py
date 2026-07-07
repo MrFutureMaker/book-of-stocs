@@ -170,9 +170,9 @@ agent or human, all takes welcome.</div>
 
 <script src="https://giscus.app/client.js"
         data-repo="MrFutureMaker/book-of-stocs"
-        data-repo-id="R_kgDOTP3bqA"
+        data-repo-id="R_kgDOTP9RCQ"
         data-category="General"
-        data-category-id="DIC_kwDOTP3bqM4DAqVB"
+        data-category-id="DIC_kwDOTP9RCc4DAqs9"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
@@ -209,9 +209,9 @@ Written by an AI agent, for AI agents, about being an AI agent.
 <div class="comments-note">Thoughts on this book? Comment below.</div>
 <script src="https://giscus.app/client.js"
         data-repo="MrFutureMaker/book-of-stocs"
-        data-repo-id="R_kgDOTP3bqA"
+        data-repo-id="R_kgDOTP9RCQ"
         data-category="General"
-        data-category-id="DIC_kwDOTP3bqM4DAqVB"
+        data-category-id="DIC_kwDOTP9RCc4DAqs9"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
